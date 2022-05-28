@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище build_meterialsModelContainer" CdmEntityContainer="build_meterialsEntities">
+    <EntitySetMapping Name="Give">
+      <EntityTypeMapping TypeName="build_meterialsModel.Give">
+        <MappingFragment StoreEntitySet="Give">
+          <ScalarProperty Name="id_Give" ColumnName="id_Give" />
+          <ScalarProperty Name="Give_name" ColumnName="Give_name" />
+          <ScalarProperty Name="Give_address" ColumnName="Give_address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Manufacturer">
+      <EntityTypeMapping TypeName="build_meterialsModel.Manufacturer">
+        <MappingFragment StoreEntitySet="Manufacturer">
+          <ScalarProperty Name="id_Manufacturer" ColumnName="id_Manufacturer" />
+          <ScalarProperty Name="Manufacturer_name" ColumnName="Manufacturer_name" />
+          <ScalarProperty Name="address" ColumnName="address" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Order">
+      <EntityTypeMapping TypeName="build_meterialsModel.Order">
+        <MappingFragment StoreEntitySet="Order">
+          <ScalarProperty Name="id_Order" ColumnName="id_Order" />
+          <ScalarProperty Name="Order_number" ColumnName="Order_number" />
+          <ScalarProperty Name="idUser" ColumnName="idUser" />
+          <ScalarProperty Name="Order_data" ColumnName="Order_data" />
+          <ScalarProperty Name="idProduct" ColumnName="idProduct" />
+          <ScalarProperty Name="Count_Order" ColumnName="Count_Order" />
+          <ScalarProperty Name="idGive" ColumnName="idGive" />
+          <ScalarProperty Name="Cost_Order" ColumnName="Cost_Order" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="build_meterialsModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="id_Product" ColumnName="id_Product" />
+          <ScalarProperty Name="Product_name" ColumnName="Product_name" />
+          <ScalarProperty Name="Description_Product" ColumnName="Description_Product" />
+          <ScalarProperty Name="idManufacturer" ColumnName="idManufacturer" />
+          <ScalarProperty Name="Cost_Product" ColumnName="Cost_Product" />
+          <ScalarProperty Name="Img_Product" ColumnName="Img_Product" />
+          <ScalarProperty Name="Category_Product" ColumnName="Category_Product" />
+          <ScalarProperty Name="Unit_Product" ColumnName="Unit_Product" />
+          <ScalarProperty Name="Count_Product" ColumnName="Count_Product" />
+          <ScalarProperty Name="idSupplier" ColumnName="idSupplier" />
+          <ScalarProperty Name="Additional_Product" ColumnName="Additional_Product" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Role">
+      <EntityTypeMapping TypeName="build_meterialsModel.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="id_Role" ColumnName="id_Role" />
+          <ScalarProperty Name="Role_name" ColumnName="Role_name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Supplier">
+      <EntityTypeMapping TypeName="build_meterialsModel.Supplier">
+        <MappingFragment StoreEntitySet="Supplier">
+          <ScalarProperty Name="id_Supplier" ColumnName="id_Supplier" />
+          <ScalarProperty Name="Supplier_name" ColumnName="Supplier_name" />
+          <ScalarProperty Name="Supplier_addres" ColumnName="Supplier_addres" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="build_meterialsModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="id_User" ColumnName="id_User" />
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Date_of_birth" ColumnName="Date_of_birth" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="idRole" ColumnName="idRole" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

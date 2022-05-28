@@ -1,0 +1,112 @@
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_Content.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\bin\Debug\EntityFramework.dll
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\bin\Debug\EntityFramework.xml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageMain\PageLogin.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\App.baml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageMain\PageLogin.baml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CopyComplete
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageMain\PageCreateAcc.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageMain\PageCreateAcc.baml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageMenuAdmin.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageGuest\PageGusetMaterials.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageMenuAdmin.baml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageGuest\PageGusetMaterials.baml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageClient\PageClientMaterials.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageManager\PageManagerMaterials.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageClient\PageClientMaterials.baml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageManager\PageManagerMaterials.baml
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageAdminAdd.g.cs
+C:\Users\10220004\source\repos\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageAdminAdd.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\bin\Debug\EntityFramework.dll
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\bin\Debug\EntityFramework.xml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageAdminAdd.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageMenuAdmin.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageClient\PageClientMaterials.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageGuest\PageGusetMaterials.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageMain\PageCreateAcc.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageMain\PageLogin.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageManager\PageManagerMaterials.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4_Content.g.cs
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\App.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageAdminAdd.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageMenuAdmin.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageClient\PageClientMaterials.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageGuest\PageGusetMaterials.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageMain\PageCreateAcc.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageMain\PageLogin.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\PageManager\PageManagerMaterials.baml
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CopyComplete
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\10220004\Desktop\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\bin\Debug\EntityFramework.dll
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\bin\Debug\EntityFramework.xml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageAdminAdd.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageMenuAdmin.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageClient\PageClientMaterials.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageGuest\PageGusetMaterials.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageMain\PageCreateAcc.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageMain\PageLogin.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageManager\PageManagerMaterials.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4_Content.g.cs
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\App.baml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageAdminAdd.baml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageAdmin\PageMenuAdmin.baml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageClient\PageClientMaterials.baml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageGuest\PageGusetMaterials.baml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageMain\PageCreateAcc.baml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageMain\PageLogin.baml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\PageManager\PageManagerMaterials.baml
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CopyComplete
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\10220004\Downloads\AAAA3-main (1)\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
